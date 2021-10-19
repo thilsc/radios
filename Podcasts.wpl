@@ -1,0 +1,26 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.18362.719"/>
+        <meta name="ItemCount" content="1"/>
+        <author/>
+        <title>Podcasts</title>
+    </head>
+    <body>
+        <seq>
+            <media src="https://nerdcast.jovemnerd.com.br/nerdcast_711_revolucao_iraniana.mp3"/>
+            <media src="https://nerdcast.jovemnerd.com.br/nerdcast_719_quarentena.mp3"/>
+            <media src="https://chtbl.com/track/72E5D/http:/feeds.soundcloud.com/stream/776456197-gugacast-gugacast-hits-1-gugacast-s05e10.mp3"/>
+            <media src="https://mcdn.podbean.com/mf/web/dsxz2g/MRG496_Sequencia_Melhor_Que_Original.mp3"/>
+            <media src="https://mcdn.podbean.com/mf/web/av2d2r/MRG498_Resident_Evil_3_remake.mp3"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/d66c331b-5d44-4326-a932-3ca2536aa5e9/braincast-348_tc.mp3?aid=rss_feed"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/0a4dc9c6-1f56-4e77-a64a-830543c863b9/braincast-349_tc.mp3?aid=rss_feed"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/50194d8b-10a0-42c7-8094-5af811a7c0f3/braincast-350-final_tc.mp3?aid=rss_feed"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/0920271a-9bbe-4d27-a2c1-b2a092d90e65/braincast-351_tc.mp3"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/d76b0352-5592-40c2-8106-b10cdd35ed41/braincast-352_tc.mp3"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/ce678d64-e38f-403f-8712-dc05503d058d/braincast-353-v3_tc.mp3"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/285c0911-f8ca-49e9-9b2d-c91ddc2f171c/braincast-ep-354-edicao-final-vs2_tc.mp3"/>
+            <media src="https://chtbl.com/track/BC6GF7/cdn.simplecast.com/audio/fabb88/fabb8814-576d-4619-8729-67d92209c149/c7591ac3-94a8-401d-b681-80a2be6c6cfe/braincast-ep-355-v1_tc.mp3?aid=rss_feed"/>
+        </seq>
+    </body>
+</smil>
