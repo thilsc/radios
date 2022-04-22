@@ -3,10 +3,10 @@
 
 <Param Name = "Temporary" Value = "True" />
 
-<Title > RÃ¡dios</Title>
+<Title > Rádios</Title>
 
 <Entry> 
-<Title > 89 FM RÃ¡dio Rock</Title>
+<Title > 89 FM Rádio Rock</Title>
 
 <Ref href = "https://21933.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm"/>
 </Entry>
@@ -14,7 +14,7 @@
 <Entry> 
 <Title > Kiss FM</Title>
 
-<Banner href = "C:\Users\thiago.coutinho\Music\Playlists\kissfm.png" > 
+<Banner href = "C:\Users\thiago.coutinho\Music\radios.git\kissfm.png" > 
 <MoreInfo href = "http://www.kissfm.com.br/" />
 </Banner>
 
@@ -22,9 +22,9 @@
 </Entry>
 
 <Entry> 
-<Title > RÃ¡dio Cidade</Title>
+<Title > Rádio Cidade</Title>
 
-<Banner href = "C:\Users\thiago.coutinho\Music\Playlists\cidade_194x32.png" > 
+<Banner href = "C:\Users\thiago.coutinho\Music\radios.git\cidade_194x32.png" > 
 <MoreInfo href = "https://radiocidade.fm/" />
 </Banner>
 
@@ -38,7 +38,7 @@
 </Entry>
 
 <Entry> 
-<Title > SulamÃ©rica Paradiso FM</Title>
+<Title > Sulamérica Paradiso FM</Title>
 
 <Ref href = "https://26583.live.streamtheworld.com/SULAMERICAAAC.aac"/>
 </Entry>
@@ -64,7 +64,7 @@
 <Entry> 
 <Title > Alpha FM SP</Title>
 
-<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac?dist=site-alphafm"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac"/>
 </Entry>
 
 <Entry> 
@@ -74,25 +74,30 @@
 </Entry>
 
 <Entry> 
-<Title> Alvorada FM - BH</Title>
+<Title > Alvorada FM - BH</Title>
 
-<Ref href = "https://24923.live.streamtheworld.com/RADIO_ALVORADAAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=e8a806ec-8475-4396-eaec-d19c4a07cc1f"/>
+<Ref href = "https://24923.live.streamtheworld.com/RADIO_ALVORADAAAC.aac"/>
 </Entry>
 
 <Entry> 
-<Title > AtlÃ¢ntico Sul - Fortaleza</Title>
+<Title > Atlântico Sul - Fortaleza</Title>
 
 <Ref href = "http://142.44.230.74:9026/live"/>
 </Entry>
 
 <Entry> 
-<Title > Biss FM - MaringÃ¡</Title>
+<Title > Mais FM - Maringá</Title>
+<Ref href = "https://ice.fabricahost.com.br/maismaringapr"/>
+</Entry>
+
+<Entry> 
+<Title > Biss FM - Maringá</Title>
 
 <Ref href = "https://ice.fabricahost.com.br/maiafm?1628601506112"/>
 </Entry>
 
 <Entry> 
-<Title > Mundo Livre FM MaringÃ¡</Title>
+<Title > Mundo Livre FM Maringá</Title>
 
 <Ref href = "http://up-continental.webnow.com.br/cultura.mp3"/>
 </Entry>
@@ -108,19 +113,19 @@
 </Entry>
 
 <Entry> 
-<Title > Tribuna FM - PetrÃ³polis</Title>
+<Title > Tribuna FM - Petrópolis</Title>
 
 <Ref href = "https://str1.streamhostpg.com.br:8032/stream?1607566096034"/>
 </Entry>
 
 <Entry> 
-<Title > RÃ¡dio Unicesumar - MaringÃ¡</Title>
+<Title > Rádio Unicesumar - Maringá</Title>
 
 <Ref href = "http://radio.cesumar.br:8000/;stream.mp3"/>
 </Entry>
 
 <Entry> 
-<Title > UEM FM - MaringÃ¡</Title>
+<Title > UEM FM - Maringá</Title>
 
 <Ref href = "http://186.233.153.151:8000/listen.pls"/>
 </Entry>

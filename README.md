@@ -16,6 +16,7 @@ Playlist para ouvir rádios via Windows Media Player (Formato .ASX)
 * [Mundo Livre FM](https://mundolivrefm.com.br/)
 * [RUC - Rádio Unicesumar](https://www.unicesumar.edu.br/)
 * [UEM FM](http://www.uemfm.uem.br/)
+* [Mais FM](https://www.radiomaisfmpr.com.br/)
 
 ## Petrópolis - RJ
 * [Tribuna FM](https://tribuna.fm.br)
