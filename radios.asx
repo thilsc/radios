@@ -8,7 +8,7 @@
 <Entry> 
 <Title > 89 FM Rádio Rock</Title>
 
-<Ref href = "https://21933.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac"/>
 </Entry>
 
 <Entry> 
@@ -28,25 +28,25 @@
 <MoreInfo href = "https://radiocidade.fm/" />
 </Banner>
 
-<Ref href = "https://20833.live.streamtheworld.com/RADIOCIDADEAAC.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac"/>
 </Entry>
 
 <Entry> 
 <Title > JB FM</Title>
 
-<Ref href = "https://26563.live.streamtheworld.com/JBFMAAC1.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac"/>
 </Entry>
 
 <Entry> 
 <Title > Sulamérica Paradiso FM</Title>
 
-<Ref href = "https://26583.live.streamtheworld.com/SULAMERICAAAC.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/SULAMERICAAAC.aac"/>
 </Entry>
 
 <Entry> 
 <Title > Nova Brasil FM Rio</Title>
 
-<Ref href = "https://20833.live.streamtheworld.com/NOVABRASIL_RIOAAC.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac"/>
 </Entry>
 
 <Entry> 
@@ -70,13 +70,13 @@
 <Entry> 
 <Title > Saudade FM (Santos/SP)</Title>
 
-<Ref href = "https://17633.live.streamtheworld.com/SAUDADE_FMAAC.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac"/>
 </Entry>
 
 <Entry> 
-<Title > Alvorada FM - BH</Title>
+<Title> Alvorada FM - BH</Title>
 
-<Ref href = "https://18683.live.streamtheworld.com/RADIO_ALVORADAAAC.aac"/>
+<Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac"/>
 </Entry>
 
 <Entry> 
@@ -127,6 +127,6 @@
 <Entry> 
 <Title > UEM FM - Maringá</Title>
 
-<Ref href = "http://186.233.153.151:8000/listen.pls"/>
+<Ref href = "http://186.233.153.151:8000/;"/>
 </Entry>
 </Asx>
