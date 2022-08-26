@@ -1,8 +1,6 @@
 <Asx Version = "3.0"  BannerBar = "AUTO" > 
 <Param Name = "AllowShuffle" Value = "yes" />
 
-<Param Name = "Temporary" Value = "True" />
-
 <Title > Rádios</Title>
 
 <Entry> 
@@ -58,7 +56,7 @@
 <Entry> 
 <Title > Antena 1 SP</Title>
 
-<Ref href = "https://antenaone.crossradio.com.br/stream/1;"/>
+<Ref href = "https://antenaone.crossradio.com.br/stream/1;?1661522824855"/>
 </Entry>
 
 <Entry> 
@@ -74,7 +72,7 @@
 </Entry>
 
 <Entry> 
-<Title> Alvorada FM - BH</Title>
+<Title > Alvorada FM - BH</Title>
 
 <Ref href = "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac"/>
 </Entry>
@@ -87,6 +85,7 @@
 
 <Entry> 
 <Title > Mais FM - Maringá</Title>
+
 <Ref href = "https://ice.fabricahost.com.br/maismaringapr"/>
 </Entry>
 
