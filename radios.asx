@@ -128,4 +128,14 @@
 
 <Ref href = "http://186.233.153.151:8000/;"/>
 </Entry>
+
+
+<Entry><Title>Cidade Light (Ribeirão Preto)</Title><Ref href = "https://centova5.transmissaodigital.com:20070/stream"/></Entry>
+<Entry><Title>Rádio RBN Digital (Salvador)</Title><Ref href = "http://69.162.102.91:8646/live?1661979652001"/></Entry>
+<Entry><Title>Bons Tempos FM (São Paulo)</Title><Ref href = "https://server02.ouvir.radio.br:8050/stream"/></Entry>
+<Entry><Title>Rádio Hits 99.7 FM (Itaperuna/RJ)</Title><Ref href = "http://srv05.brasilstream.com.br:9959/stream"/></Entry>
+<Entry><Title>Rádio Cidade 94.3 FM (Natal)</Title><Ref href = "https://cidadedosolaac.jmvstream.com/stream?1661979957551"/></Entry>
+<Entry><Title>Web Rádio AC Tec (São Paulo)</Title><Ref href = "http://sv10.hdradios.net:7206/;?1661980047750"/></Entry>
+<Entry><Title>Loucos Por Retrô (Uberlândia)</Title><Ref href = "http://hts07.kshost.com.br:11186/stream?1661980120049"/></Entry>
+
 </Asx>
